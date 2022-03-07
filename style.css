@@ -380,14 +380,14 @@ input {
     flex-direction: column;
     padding: 20px 10px;
     margin-top: 10px;
-    background-color: #c8b6ff;
+    
     border-radius: 5px;
   }
   .section2 {
     flex-direction: column-reverse;
     padding: 20px 10px;
     margin-top: 10px;
-    background-color: #c8b6ff;
+
     border-radius: 5px;
   }
   .inner {
