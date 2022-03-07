@@ -421,6 +421,9 @@ input {
     text-align: center;
     flex-direction: column;
   }
+  ol li a{
+  font-size:18px;
+  }
   input {
     width: 90%;
   }
